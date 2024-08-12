@@ -22,7 +22,7 @@ This game is developed as part of an internship project with the primary goal of
 
 ## Live Link
 
-[Play the game online](https://github.com/sridharaniruddha/collective-game/)
+[Play the game online](https://costea47.github.io/collective-game/)
 
 ## Live on RosebudAI
 
